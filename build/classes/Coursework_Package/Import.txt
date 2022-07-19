@@ -1,0 +1,10 @@
+1050,Nikobaby,Finland,Scandanavian Airlines,First Class,One Way,450
+1055,Arteezy,Denmark,Norwegian Air Shuttle,First Class,One Way,500
+1060,Ramzes,Sweden,Scandanavian Airlines,Business Class,One Way,350
+1075,Miposhka,Iceland,Norwegian Air Shuttle,First Class,Two Way,600
+1080,Crit,Finland,Finnair Airways,Business Class,Two Way,450
+1095,Ana,Denmark,Norwegian Air Shuttle,Business Class,One Way,375
+1100,Somnus,Iceland,Atlantic Airways,First Class,One Way,750
+1200,Sumiya,Norway,Norwegian Air Shuttle,Economic Class,One Way,200
+1250,Abed,Iceland,Scandanavian Airlines,Economic Class,One Way,250
+1275,Yapzor,Norway,Atlantic Airways,Business Class,One Way,350

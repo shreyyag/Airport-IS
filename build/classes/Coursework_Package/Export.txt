@@ -1,0 +1,7 @@
+1001,Notail,Denmark,Scandanavian Airlines,Business Class,One Way,100,
+1002,Sumail,Norway,Norwegian Air Shuttle,Economic Class,One Way,125,
+1003,Sebastian,Finland,Finnair Airways,First Class,Two Way,300,
+1004,Topson,Finland,Norwegian Air Shuttle,First Class,Two Way,250,
+1005,Insania,Denmark,Finnair Airways,Economic Class,One Way,150,
+1010,Mickie,Iceland,Norwegian Air Shuttle,Business Class,One Way,205,
+1012,Zai,Denmark,Scandanavian Airlines,Business Class,One Way,175,
